@@ -6,13 +6,13 @@
 
     <groupId>com.patson</groupId>
     <artifactId>airline</artifactId>
-    <version>1.0.0</version>
+    <version>2.1.0</version>
     <packaging>pom</packaging>
 
     <modules>
         <module>airline-data</module>
-        <!--<module>airline-rest</module>
-        <module>airline-web</module>-->
+        <module>airline-rest</module>
+        <module>airline-web</module>
     </modules>
 
 </project>
